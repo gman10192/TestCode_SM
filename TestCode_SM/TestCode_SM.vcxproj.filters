@@ -16,6 +16,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="TestCode_SM.ino" />
+    <None Include="displayEventHandler.ino" />
+    <None Include="states.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.TestCode_SM.vsarduino.h">
