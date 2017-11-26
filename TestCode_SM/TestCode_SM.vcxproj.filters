@@ -18,6 +18,9 @@
     <None Include="TestCode_SM.ino" />
     <None Include="displayEventHandler.ino" />
     <None Include="states.ino" />
+    <None Include="tempCodeForCopy.ino" />
+    <None Include="DisplayUpdate.ino" />
+    <None Include="getAnalogData.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.TestCode_SM.vsarduino.h">

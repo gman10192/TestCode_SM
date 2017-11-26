@@ -76,7 +76,10 @@ typedef void *__builtin_va_list;
 #define pgm_read_ptr(address_short)   short()
 
 #include "TestCode_SM.ino"
+#include "DisplayUpdate.ino"
 #include "displayEventHandler.ino"
+#include "getAnalogData.ino"
 #include "states.ino"
+#include "tempCodeForCopy.ino"
 #endif
 #endif
