@@ -1,19 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestCode_SM", "TestCode_SM.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "genieArduino", "..\..\..\..\Documents\Arduino\libraries\genieArduino\genieArduino.vcxitems", "{7438B684-1D5E-48E6-A8B3-D4791CC00376}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPI", "..\..\..\..\..\..\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\SPI\SPI.vcxitems", "{955BA7E4-F884-40F8-ABBA-A3B9A3F33EDE}"
-EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		..\..\..\..\Documents\Arduino\libraries\genieArduino\genieArduino.vcxitems*{7438b684-1d5e-48e6-a8b3-d4791cc00376}*SharedItemsImports = 9
-		..\..\..\..\..\..\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\SPI\SPI.vcxitems*{955ba7e4-f884-40f8-abba-a3b9a3f33ede}*SharedItemsImports = 9
-		..\..\..\..\..\..\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\SPI\SPI.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
 		..\..\..\..\Documents\Arduino\libraries\genieArduino\genieArduino.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
